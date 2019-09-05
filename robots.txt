@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooweiyahf.fcathala.net/sitemap.xml
